@@ -1,17 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".localized"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "README.md"
+hash = "cdcef20721b642a4665254b83cde0f7e8f6df3831f1efca1f5918ef79fcf3006"
 
 [[files]]
 file = "mods/carpet-fixes.pw.toml"
-hash = "d7c6555b666ff113894f6dd6dba7e6cc95c041542d06a39fd6f67421341711b9"
+hash = "49aa4627e9362cdeb412e0d737cd0c78e371a4bed45c89253b61c66b84314b1f"
 metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
+hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
 metafile = true
 
 [[files]]
